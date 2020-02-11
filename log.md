@@ -9,6 +9,6 @@
 **Link to work:** 
 1. [array.slice](https://codepen.io/skharat/pen/abOOoGw)
 2. [array.splice](https://codepen.io/skharat/pen/poJJzKj)
-3. [array.split](https://codepen.io/skharat/pen/RwPPbJY)
+3. [string.split](https://codepen.io/skharat/pen/RwPPbJY)
 
 
