@@ -18,6 +18,6 @@
 
 **Thoughts:** As compared to other programming languages like C, C++, C#, Javascript scope is different, for a full-stack developer like me, after coding C# and switching context to Javascript is essential and needs to keep in mind the scope difference.
 
-**Link to work:** Javascript scope(https://codepen.io/bunmaska/pen/BaNNvNQ)
+**Link to work:** [Javascript scope](https://codepen.io/bunmaska/pen/BaNNvNQ)
 
 
