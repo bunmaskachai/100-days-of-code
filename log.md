@@ -21,3 +21,12 @@
 **Link to work:** [Javascript scope](https://codepen.io/bunmaska/pen/BaNNvNQ)
 
 
+### Day 3: February 12, 2020
+
+**Today's Progress**: JavaScript array.reduce
+
+**Thoughts:** Today going through one of the important method array.reduce
+
+**Link to work:** [Javascript array.reduce](https://codepen.io/bunmaska/pen/zYGvbZw)
+
+
