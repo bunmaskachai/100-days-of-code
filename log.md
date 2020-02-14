@@ -30,3 +30,8 @@
 **Link to work:** [Javascript array.reduce](https://codepen.io/bunmaska/pen/zYGvbZw)
 
 
+### Day 4: February 13, 2020
+
+**Today's Progress**: FizzBuzz
+
+**Link to work:** [FizzBuzz](https://codepen.io/bunmaska/pen/xxGZPEd)
