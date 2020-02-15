@@ -35,3 +35,10 @@
 **Today's Progress**: FizzBuzz
 
 **Link to work:** [FizzBuzz](https://codepen.io/bunmaska/pen/xxGZPEd)
+
+
+### Day 5: February 14, 2020
+
+**Today's Progress**: Compress String
+
+**Link to work:** [Compress String](https://codepen.io/bunmaska/pen/GRJobLe)
