@@ -42,3 +42,12 @@
 **Today's Progress**: Compress String
 
 **Link to work:** [Compress String](https://codepen.io/bunmaska/pen/GRJobLe)
+
+
+### Day 6: February 15, 2020
+
+**Today's Progress**: Character Frequency
+
+**Link to work:** [Character Frequency](https://codepen.io/bunmaska/pen/MWwybYX)
+
+
