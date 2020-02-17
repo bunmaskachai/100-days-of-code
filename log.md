@@ -51,3 +51,13 @@
 **Link to work:** [Character Frequency](https://codepen.io/bunmaska/pen/MWwybYX)
 
 
+### Day 7: February 16, 2020
+
+**Today's Progress**: Longest word in a string
+
+**Link to work:** [Longest word in a string](https://codepen.io/bunmaska/pen/abONGmq)
+
+
+
+
+
