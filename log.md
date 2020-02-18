@@ -53,9 +53,16 @@
 
 ### Day 7: February 16, 2020
 
-**Today's Progress**: Longest word in a string
+**Today's Progress**: Longest word in a string (Using for loop)
 
 **Link to work:** [Longest word in a string](https://codepen.io/bunmaska/pen/abONGmq)
+
+
+### Day 9: February 16, 2020
+
+**Today's Progress**: Longest word in a string (Using array.sort)
+
+**Link to work:** [Longest word in a string](https://codepen.io/bunmaska/pen/YzXWywV)
 
 
 
